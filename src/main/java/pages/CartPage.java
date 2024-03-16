@@ -20,6 +20,7 @@ public class CartPage extends AbstractComponents {
 
     @FindBy(css = ".cartSection h3")
     List<WebElement> cartProducts;
+
     @FindBy(css = ".totalRow button")
     WebElement checkOut;
 
