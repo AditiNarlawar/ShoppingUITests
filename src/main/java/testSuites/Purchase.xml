@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests">
+    <groups>
+        <run>
+            <include name="Purchase"/>
+        </run>
+    </groups>
+    <test verbose="2" preserve-order="true" name="ErrorValidation">
+        <classes>
+            <class name="tests.ErrorValidation"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="SubmitOrderTest">
+        <classes>
+            <class name="tests.SubmitOrderTest"/>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="testComponents.Listeners"/>
+    </listeners>
+</suite>
