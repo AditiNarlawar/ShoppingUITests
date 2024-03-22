@@ -8,11 +8,11 @@ WebDriver and TestNG for test automation.
 This project contains configurations and dependencies for automating tests for a shopping website's user interface. It includes the following features and components:
 
 - **`Java`:** Java programming language is used for writing test code.
-- `Selenium WebDriver`: Selenium WebDriver is used for automating interactions with the UI elements.
-- `TestNG`: TestNG is used for organizing and executing test cases using the TestNG testing framework.
-- `TestNG Listeners`: Events in the test execution are captured using TestNG Listeners.
-- `Maven`: Maven is used as a build management tool.
-- `Extent Report`: Extent Report is used for comprehensive test reporting.
+- **`Selenium WebDriver`:** Selenium WebDriver is used for automating interactions with the UI elements.
+- **`TestNG`:** TestNG is used for organizing and executing test cases using the TestNG testing framework.
+- **`TestNG Listeners`:** Events in the test execution are captured using TestNG Listeners.
+- **`Maven`:** Maven is used as a build management tool.
+- **`Extent Report`:** Extent Report is used for comprehensive test reporting.
 
 ### Run Test
 
@@ -22,14 +22,14 @@ This project contains configurations and dependencies for automating tests for a
 
 ### SubmitOrderTest
 
-- `submitOrder`: This test case logs in to the application, adds a product to the cart, checks out the product, and
+- **`submitOrder`**: This test case logs in to the application, adds a product to the cart, checks out the product, and
   verifies the confirmation message.
-- `orderHistoryPage`: This test case verifies the display of the order history page.
+- **`orderHistoryPage`:** This test case verifies the display of the order history page.
 
 ### ErrorValidation
 
-- `loginPageErrorValidation`: This test case validates error handling on the login page.
-- `productErrorValidation`: This test case validates error handling on the product page.
+- **`loginPageErrorValidation`:** This test case validates error handling on the login page.
+- **`productErrorValidation`:** This test case validates error handling on the product page.
 
 ## Prerequisites
 
