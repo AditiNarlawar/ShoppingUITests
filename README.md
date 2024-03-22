@@ -1,11 +1,11 @@
 ## Shopping UI Automation Project | Aditi Narlawar
 
-This project is designed for automating tests for the Shopping website's user interface (UI). It utilizes Selenium
+This project is designed for automating tests for the Shopping website user interface (UI). It utilizes Selenium
 WebDriver and TestNG for test automation.
 
 ## What does this repository contain?
 
-This project contains configurations and dependencies for automating tests for a shopping website's user interface. It includes the following features and components:
+This project contains configurations and dependencies for automating tests for a shopping website user interface. It includes the following features and components:
 
 - **`Java`:** Java programming language is used for writing test code.
 - **`Selenium WebDriver`:** Selenium WebDriver is used for automating interactions with the UI elements.
