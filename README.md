@@ -1,4 +1,4 @@
-# Shopping UI Automation Project
+# Shopping UI Automation Project | Aditi Narlawar
 
 This project is designed for automating tests for the Shopping website's user interface (UI). It utilizes Selenium
 WebDriver and TestNG for test automation.
