@@ -7,10 +7,10 @@ WebDriver and TestNG for test automation.
 
 This project contains configurations and dependencies for automating tests for a shopping website's user interface. It includes the following features and components:
 
-- `Java`: Java programming language is used for writing test code in Java programming language.
+- `Java`: Java programming language is used for writing test code.
 - `Selenium WebDriver`: Selenium WebDriver is used for automating interactions with the UI elements.
 - `TestNG`: TestNG is used for organizing and executing test cases using the TestNG testing framework.
-- `TestNG Listeners`: Events in the test execution are captured using TestNG Listeners, providing detailed logs.
+- `TestNG Listeners`: Events in the test execution are captured using TestNG Listeners.
 - `Maven`: Maven is used as a build management tool.
 - `Extent Report`: Extent Report is used for comprehensive test reporting.
 
