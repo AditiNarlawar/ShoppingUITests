@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <testng.version>7.4.0</testng.version>
         <webdrivermanager.version>5.7.0</webdrivermanager.version>
-        <selenium-java.version>5.7.0</selenium-java.version>
+        <selenium-java.version>4.13.0</selenium-java.version>
         <jackson-databind.version>2.16.1</jackson-databind.version>
         <extentreports.version>5.0.9</extentreports.version>
         <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
@@ -119,7 +119,6 @@
             <artifactId>extentreports</artifactId>
             <version>${extentreports.version}</version>
         </dependency>
-
     </dependencies>
 
     <build>
