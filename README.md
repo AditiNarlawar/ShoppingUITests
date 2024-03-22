@@ -5,8 +5,7 @@ WebDriver and TestNG for test automation.
 
 ## What does this repository contain?
 
-This project contains codes for demonstrating RESTful API Testing using Booker APIs. It includes the following features
-and components:
+This project contains configurations and dependencies for automating tests for a shopping website's user interface. It includes the following features and components:
 
 - `Java`: Java programming language is used for writing test code in Java programming language.
 - `Selenium WebDriver`: Selenium WebDriver is used for automating interactions with the UI elements.
