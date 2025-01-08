@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class SubmitOrderTest extends BaseTest {
-    String productName = "ZARA COAT 3";
+    String productName = "IPHONE 13 PRO";
 
     /**
      * Test method to submit an order for a product and verify the confirmation message.
