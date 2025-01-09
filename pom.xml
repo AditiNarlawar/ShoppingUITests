@@ -19,6 +19,7 @@
         <extentreports.version>5.0.9</extentreports.version>
         <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
+        <lombok.version>1.18.30</lombok.version>
     </properties>
 
     <profiles>
@@ -129,7 +130,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.30</version> <!-- Replace with the latest version -->
+            <version>${lombok.version}</version>
             <scope>provided</scope>
         </dependency>
 
